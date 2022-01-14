@@ -9,6 +9,9 @@ body {font-family:Arial, Helvetica, sans-serif;font-size:100%;color:#262626;min-
 	#page3 .bg-top-shadow {padding:40px 0 35px}
 	#page4 .bg-top-shadow {padding:40px 0 60px}
 	#page5 .bg-top-shadow {padding:40px 0 62px}
+.h2{
+color:white;
+}
 .bg-top {width:100%; background:url(../images/bg-top-tail.jpg) center top repeat-x}
 .bg-top-2 {width:100%; background:url(../images/bg-top-tail2.jpg) center top repeat-y}
 .bg {width:100%; background:url(../images/bg-top.jpg) center top no-repeat}
